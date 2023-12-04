@@ -2,7 +2,7 @@
 ### 안녕하세요
 ### 여러가지언어를 사용하며 열심히 공부하고 있는 학생입니다.
 ### 아직 실력은 많이 부족하지만 열심히 공부하겠습니다!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=500&section=header&animation=twinkling&text=Unity_Is_Best!&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=500&section=header&animation=twinkling&text=Html is Not Programing Language!&fontSize=90"/>
 
 # About me 😁
 | What | When | Where |
