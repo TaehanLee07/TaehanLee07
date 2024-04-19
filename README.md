@@ -24,17 +24,13 @@
 | 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | Java middle After School Class |
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | Web After School Class |
 | 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
-| 자율주행 AI 수업 | 2023. 10? | After School Class |
-| 2023 싱가폴 ITE CW국제교류 | 2023. 09. 19 ~ 09. 21 | Sungil Information High School |
-| 게임 개발 기능경기대회 준비 | 2023. 10. 19 ~ 현재 | After School Class |
-| 기능대회준비 자율 팀 프로젝트 협동 활동 | 2024. 8. 28 ~ 11. 24 | After School Class |
 | KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
 
 ## My GitHub stats
 <p align="center">
   <br>
-  <a href="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br>
 </p>
