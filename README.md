@@ -1,4 +1,4 @@
-![image]([https://github.com/dbsrjs/dbsrjs/assets/124150775/41c9f88b-8b8f-4efd-9626-e038b753b984](https://dcimg4.dcinside.co.kr/viewimage.php?id=28bbc4&no=24b0d769e1d32ca73fe985fa11d02831c5fc1f16261ec769f2489307c668da25a9fd19c315f9807b31ecb71f1c8f6900425b40ca901ea34a7aa1339f47ac))<div align="center">
+<img src="https://dcimg4.dcinside.co.kr/viewimage.php?id=28bbc4&no=24b0d769e1d32ca73fe985fa11d02831c5fc1f16261ec769f2489307c668da25a9fd19c315f9807b31ecb71f1c8f6900425b40ca901ea34a7aa1339f47ac" alt="gitProfileBanner">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=45&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Tae+han+Lee)](https://git.io/typing-svg)
 <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
