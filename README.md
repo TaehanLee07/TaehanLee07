@@ -29,7 +29,8 @@
 | 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
 | 자율주행 AI 수업 | 2023. 10 ~ 2023. 12 | After School Class |
 | 2023 싱가폴 ITE CW국제교류 | 2023. 09. 19 ~ 09. 21 | After School Class |
-| 게임 개발 기능경기대회 준비 | 2023. 10. 19 ~ 2024. 03. 29 | After School Class |
+| SP-EFT-ProfileEditor 제작 참여 | 2024. 01. 19 ~ 현재 | Team Project |
+| Spt_StashSearch 제작 참여 및 배포 | 2024. 02. 02 ~ 2024. 04. 20 | Team Project | 
 | 성일정보고등학교 도제 홈페이지 제작 프로젝트 | 2024. 3. 28 ~ 현재| Team Project |
 | KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
