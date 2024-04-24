@@ -3,7 +3,7 @@
 <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
 <p>자바 와 웹개발을 좋아하고 다양한 언어에 도전하고 있는 개발자 <strong>이태한</strong>입니다.</p>
 
-| Game | Etc | Tool | Other |
+| Game | Web | Tool | Other |
 | :--------: | :--------: | :------: | :------: |
 | <a href = "https://www.notion.so/483ee64d4f36436d947d657ee4a15585?v=a7c95a24d14b4e559362ed65cf204b81&pvs=4" title="My Notion Site"> <img src="https://img.shields.io/badge/Unity -black.svg?style=flat&logo=Unity&logoColor=FFFFFF"> </a> | <a href = "https://rktrjtrit.notion.site/8f3f211d0cf444398a38d02f06fcf17a?v=1835751ef68347428e3e2d6e1d8174c5&pvs=4" title="My Notion Site (Main)"> <img src="https://img.shields.io/badge/Notion -white.svg?style=flat&logo=notion&logoColor=000000"> </a> | <img src="https://img.shields.io/badge/vscode-black.svg?style=flat-square&logo=visualstudiocode&logoColor=007ACC" title="Just Image"> | <a href = "https://github.com/wkdtjdwns/Python" title="My Github Site (Python)"> <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white">
 | <a href = "https://rktrjtrit.notion.site/C-1e5d814aefcf4453bbf9263754f3feab" title="My Notion Site (C#)"> <img src="https://img.shields.io/badge/csharp -37008B.svg?style=flat&logo=csharp&logoColor=9A6FD2"> </a> | <a href = "https://rktrjtrit-unity.tistory.com/" title="My Blog Site (tistory)"> <img src="https://img.shields.io/badge/tistory -darkred.svg?style=flat&logo=tistory&logoColor=orange"> </a> | <img src="https://img.shields.io/badge/eclipse -white.svg?style=flat-square&logo=eclipseide&logoColor=2C2255" title="Just Image"> | <a href = "https://github.com/wkdtjdwns/Java" title="My Github Site (Java)"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
