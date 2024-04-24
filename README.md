@@ -3,11 +3,45 @@
 </div>
 
 ## My GitHub stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&layout=compact) <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&theme=radical)
+<p align="center">
+  <br>
+  <a href="https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br>
+</p>
+
+## Introduction
 <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
 <p>자바 와 웹개발을 좋아하고 다양한 언어에 도전하고 있는 개발자 <strong>이태한</strong>입니다.</p>
 <!--내용 부분-->
+
+## About me
+| What | When | Where |
+|:--------:|:--------:|:--------:|
+| 성일정보고등학교 소프트웨어과 재학중 | 2023. 03. 2 ~ 현재 | Sungil Information High School |
+| 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023. 03 ~ 현재 | Sungil Software Study (SSS) |
+| 성일정보고등학교 게임 개발 동아리 | 2024. 04 ~ 현재 | Sungil Software Study (SSS) |
+| 성일정보고등학교 방과후 자바 기초 | 2023. 05. 11 ~ 07. 19 | After School Class |
+| 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | After School Class |
+| 성일정보고등학교 방과후 자바 Level3 | 2024. 04. 11 ~ 현재 | After School Class |
+| 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | After School Class |
+| 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
+| 자율주행 AI 수업 | 2023. 10 ~ 2023. 12 | After School Class |
+| 2023 싱가폴 ITE CW국제교류 | 2023. 09. 19 ~ 09. 21 | After School Class |
+| 게임 개발 기능경기대회 준비 | 2023. 10. 19 ~ 2024. 03. 29 | After School Class |
+| 2024 지방기능경기대회 게임개발 직종 장려상 | 2024. 04. 04 | MeisterNet |
+| 기능대회준비 자율 팀 프로젝트 협동 활동 | 2023. 8. 28 ~ 11. 24 | After School Class |
+| KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
+| Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
+
+## My GitHub stats
+<p align="center">
+  <br>
+  <a href="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br>
+</p>
+</div>
 <h3 align="center">✨ Web Tech ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
