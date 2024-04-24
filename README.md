@@ -1,5 +1,3 @@
-## My GitHub stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&layout=compact)
 
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
@@ -9,6 +7,8 @@
 <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
 <p>자바 와 웹개발을 좋아하고 다양한 언어에 도전하고 있는 개발자 <strong>이태한</strong>입니다.</p>
 
+## My GitHub stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&layout=compact)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
