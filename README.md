@@ -3,11 +3,12 @@
 </div>
 
 ## My GitHub stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&layout=compact) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&theme=radical)
 <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
 <p>자바 와 웹개발을 좋아하고 다양한 언어에 도전하고 있는 개발자 <strong>이태한</strong>입니다.</p>
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Web Tech ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
