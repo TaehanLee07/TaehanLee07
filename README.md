@@ -14,7 +14,6 @@
 <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
 <p>프로그래밍언어를 사랑하고 다양한 언어에 도전하고 있는 개발자 <strong>이태한</strong>입니다.</p>
 <p>풀스택 개발자가 되기위해 열심히 공부하는중입니다.</p>
-<!--내용 부분-->
 
 ## About me
 | What | When | Where |
@@ -29,7 +28,6 @@
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | After School Class |
 | 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
 | 자율주행 AI 수업 | 2023. 10 ~ 2023. 12 | After School Class |
-| SP-EFT-ProfileEditor 제작 참여 | 2024. 01. 19 ~ 현재 | Home (Team Project) |
 | 성일정보고등학교 도제 홈페이지 제작 프로젝트 | 2024. 3. 28 ~ 현재| Home (Team Project) |
 | KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
