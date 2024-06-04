@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github.com/TaehanLee07/TaehanLee07/blob/main/text.gif" />
 </div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlwjdtmgus1)](https://solved.ac/rlwjdtmgus1/)
 
 ## My GitHub stats
 <p align="center">
