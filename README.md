@@ -2,12 +2,10 @@
   <img src="https://github.com/TaehanLee07/TaehanLee07/blob/main/text.gif" />
 </div>
 
-## My GitHub stats
-<p align="center">
-  <br>
-  <a href="https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br>
+## My  stats
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
 ## Introduction
