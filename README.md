@@ -3,10 +3,9 @@
 </div>
 
 ## My  stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&theme=tokyonight)
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&theme=tokyonight">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+
 
 ## Introduction
 <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
