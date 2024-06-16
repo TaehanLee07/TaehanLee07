@@ -57,7 +57,7 @@
 
 
 <br>
-추천 사이트 (https://yozm.wishket.com/magazine/)
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -81,3 +81,4 @@
 
 <br>
 
+[추천 사이트](https://yozm.wishket.com/magazine/)
