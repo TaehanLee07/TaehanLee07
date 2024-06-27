@@ -3,7 +3,7 @@
 </div>
 
 ## My  stats
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlwjdtmgus1)](https://solved.ac/https://solved.ac/profile/rlwjdtmgus1/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlwjdtmgus1)](solved.ac/profile/rlwjdtmgus1/)
   <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&theme=tokyonight">
   <br>
