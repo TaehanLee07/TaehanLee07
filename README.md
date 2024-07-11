@@ -82,4 +82,3 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
 </div>
-[추천 사이트](https://yozm.wishket.com/magazine/)
