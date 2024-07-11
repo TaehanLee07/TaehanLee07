@@ -9,14 +9,8 @@
   <br>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <div>
-  <a href="https://github.com/RamonLarcherRibeiro">
-  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&layout=compact&langs_count=7&theme=algolia"/>
+  <a href="https://github.com/TaehanLee07">
   <img height="140em" src="https://streak-stats.demolab.com?user=TaehanLee07&theme=algolia" alt="GitHub Streak" />  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaehanLee07&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TaehanLee07&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TaehanLee07&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TaehanLee07&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TaehanLee07&theme=algolia">
 </div>
 
 ## Introduction
