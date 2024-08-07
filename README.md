@@ -25,9 +25,7 @@
 | 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023. 03 ~ 2024. 04 | Sungil Software Study (SSS) |
 | 성일정보고등학교 소프트웨어 웹 개발 스터디 | 2024. 04 ~ 현재| Sungil Software Study (SSS) |
 | 성일정보고등학교 프로그래머스 알고리즘 문제풀이 동아리 | 2023. 04 ~ 현재 | After School Class |
-| 성일정보고등학교 방과후 자바 기초 | 2023. 05. 11 ~ 07. 19 | After School Class |
-| 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | After School Class |
-| 성일정보고등학교 방과후 자바 Level3 | 2024. 04. 11 ~ 현재 | After School Class |
+| 성일정보고등학교 방과후 자바 (기초 ~ Level 4) | 2023. 05. 11 ~ 현재 | After School Class |
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | After School Class |
 | 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
 | 자율주행 AI 수업 | 2023. 10 ~ 2023. 12 | After School Class |
