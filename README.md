@@ -8,10 +8,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TaehanLee07&show_icons=true&theme=tokyonight">
   <br>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehanLee07&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <div>
-  <a href="https://github.com/TaehanLee07">
-  <img height="140em" src="https://streak-stats.demolab.com?user=TaehanLee07&theme=algolia" alt="GitHub Streak" />  
-</div>
 
 ## Introduction
 <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
