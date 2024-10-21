@@ -21,8 +21,6 @@
 | 성일정보고등학교 프로그래머스 알고리즘 문제풀이 동아리 | 2023. 04 ~ 현재 | After School Class |
 | 성일정보고등학교 방과후 자바 (기초 ~ Level 4) | 2023. 05. 11 ~ 현재 | After School Class |
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | After School Class |
-| 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
-| 자율주행 AI 수업 | 2023. 10 ~ 2023. 12 | After School Class |
 | 성일정보고등학교 도제 홈페이지 제작 프로젝트 | 2024. 3. 28 ~ 현재| Home (Team Project) |
 | KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
