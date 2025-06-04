@@ -16,14 +16,15 @@
 ## About me
 | What | When | Where |
 |:--------:|:--------:|:--------:|
-| 성일정보고등학교 소프트웨어과 재학중 | 2023. 03. 2 ~ 현재 | Sungil Information High School |
+| 성일정보고등학교 소프트웨어과 재학중 | 2023, 2024 2025 | Sungil Information High School |
 | 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023, 2024 | Sungil Software Study (SSS) |
 | 성일정보고등학교 소프트웨어 웹 개발 스터디 | 2024, 2025| Sungil Software Study (SSS) |
 | 성일정보고등학교 프로그래머스 알고리즘 문제풀이 동아리 | 2023, 2024, 2025 | After School Class |
 | 성일정보고등학교 방과후 자바 (기초 ~ Level 4) | 2023. 2024| After School Class |
-| 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | After School Class |
-| 성일정보고등학교 도제 홈페이지 제작 프로젝트 | 2024. 3. 28 ~ 현재| SCHOOL (Team Project) |
-| KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | KAIT |
+| 성일정보고등학교 방과후 웹 수업 | 2023 | After School Class |
+| 성일정보고등학교 방과후 백엔드 (SPRING BOOT) | 2024 | After School Class |
+| 성일정보고등학교 도제 홈페이지 제작 프로젝트 | 2024 | SCHOOL (Team Project) |
+| KAIT 2023 SFPC 전북 대회 참가 | 2024 | KAIT |
 | KAIT 2024 스마일게이트 경기청소년 게임잼 참여 및 수상| 2024 | SMILE GATE |
 
 </div>
