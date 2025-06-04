@@ -31,7 +31,7 @@
 | ITQ 파워포인트 | 2023 | 한국생산성본부 |
 | ITQ 한글 | 2023 | 한국생산성본부 |
 | 컴퓨터 활용능력 2급 | 2023 | 대한상공회의소 |
-| 정보처리산업기사 | 2024 | Sungil Information High School |
+| 정보처리산업기사 | 2024 | Q-NET |
 </div>
 <h3 align="center">✨ Web Tech ✨</h3>
 <div align="center">
