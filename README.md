@@ -9,6 +9,7 @@
 
 ## Introduction
 <p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
+<p><strong>(주)메타씨티 재직중</strong></p>
 <p>프로그래밍언어를 사랑하고 다양한 언어에 도전하고 있는 개발자 <strong>이태한</strong>입니다.</p>
 <p>개발자가 되기위해 열심히 공부하는중입니다.</p>
 
@@ -16,14 +17,14 @@
 | What | When | Where |
 |:--------:|:--------:|:--------:|
 | 성일정보고등학교 소프트웨어과 재학중 | 2023. 03. 2 ~ 현재 | Sungil Information High School |
-| 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023. 03 ~ 2024. 04 | Sungil Software Study (SSS) |
-| 성일정보고등학교 소프트웨어 웹 개발 스터디 | 2024. 04 ~ 현재| Sungil Software Study (SSS) |
-| 성일정보고등학교 프로그래머스 알고리즘 문제풀이 동아리 | 2023. 04 ~ 현재 | After School Class |
-| 성일정보고등학교 방과후 자바 (기초 ~ Level 4) | 2023. 05. 11 ~ 현재 | After School Class |
+| 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023, 2024 | Sungil Software Study (SSS) |
+| 성일정보고등학교 소프트웨어 웹 개발 스터디 | 2024, 2025| Sungil Software Study (SSS) |
+| 성일정보고등학교 프로그래머스 알고리즘 문제풀이 동아리 | 2023, 2024, 2025 | After School Class |
+| 성일정보고등학교 방과후 자바 (기초 ~ Level 4) | 2023. 2024| After School Class |
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | After School Class |
-| 성일정보고등학교 도제 홈페이지 제작 프로젝트 | 2024. 3. 28 ~ 현재| Home (Team Project) |
-| KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
-| Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
+| 성일정보고등학교 도제 홈페이지 제작 프로젝트 | 2024. 3. 28 ~ 현재| SCHOOL (Team Project) |
+| KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | KAIT |
+| KAIT 2024 스마일게이트 경기청소년 게임잼 참여 및 수상| 2024 | SMILE GATE |
 
 </div>
 <h3 align="center">✨ Web Tech ✨</h3>
@@ -31,10 +32,11 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
