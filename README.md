@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/TaehanLee07/TaehanLee07/blob/main/text.gif" />
-</div>
-
 ## My  stats
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlwjdtmgus1)](https://solved.ac/profile/rlwjdtmgus1)
   <br>
