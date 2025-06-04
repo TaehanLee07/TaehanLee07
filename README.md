@@ -16,7 +16,7 @@
 ## About me
 | What | When | Where |
 |:--------:|:--------:|:--------:|
-| (주)메타씨티 재직 | 2023, 2024 2025 | Sungil Information High School |
+| (주)메타씨티 재직 | 2025 | METACITY |
 | 성일정보고등학교 소프트웨어과 재학 | 2023, 2024 2025 | Sungil Information High School |
 | 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023, 2024 | Sungil Software Study (SSS) |
 | 성일정보고등학교 소프트웨어 웹 개발 스터디 | 2024, 2025| Sungil Software Study (SSS) |
